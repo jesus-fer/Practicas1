@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/layout_item_solicitud.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/item_solicitud.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/layout_fragment_registro.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/fragment_registro.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_bg_screen.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/bg_screen.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/layout_fragment_lista.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/fragment_lista.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_ic_agregar_imagen.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/ic_agregar_imagen.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_bg_semaforo_neutro.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/bg_semaforo_neutro.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_bg_semaforo_amarillo.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/bg_semaforo_amarillo.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/layout_dialog_editar_solicitud.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/dialog_editar_solicitud.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_bg_semaforo_rojo.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/bg_semaforo_rojo.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_bg_surface_panel.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/bg_surface_panel.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_bg_semaforo_verde.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/bg_semaforo_verde.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/layout_dialog_detalle_solicitud.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/dialog_detalle_solicitud.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_bg_panel_hero.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/bg_panel_hero.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-debug-43:/drawable_bg_estado_chip.xml.flat",
+        "source": "com.cibertec.ticketaula.app-main-45:/drawable/bg_estado_chip.xml"
+    }
+]

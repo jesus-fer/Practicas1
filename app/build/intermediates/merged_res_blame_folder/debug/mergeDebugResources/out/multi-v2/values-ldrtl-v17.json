@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cibertec.ticketaula.app-mergeDebugResources-41:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\crist\\.gradle\\caches\\8.13\\transforms\\f8473ec66a16bb4048b161afcfb5d38f\\transformed\\material-1.14.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

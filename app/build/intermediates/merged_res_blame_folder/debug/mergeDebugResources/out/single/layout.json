@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.cibertec.ticketaula.app-mergeDebugResources-42:/layout/dialog_detalle_solicitud.xml",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/dialog_detalle_solicitud.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-mergeDebugResources-42:/layout/fragment_lista.xml",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/fragment_lista.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-mergeDebugResources-42:/layout/fragment_registro.xml",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/fragment_registro.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-mergeDebugResources-42:/layout/item_solicitud.xml",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/item_solicitud.xml"
+    },
+    {
+        "merged": "com.cibertec.ticketaula.app-mergeDebugResources-42:/layout/dialog_editar_solicitud.xml",
+        "source": "com.cibertec.ticketaula.app-main-45:/layout/dialog_editar_solicitud.xml"
+    }
+]
